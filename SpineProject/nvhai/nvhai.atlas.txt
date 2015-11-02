@@ -1,0 +1,271 @@
+
+nvhai.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Chest-01
+  rotate: true
+  xy: 886, 211
+  size: 148, 90
+  orig: 148, 90
+  offset: 0, 0
+  index: -1
+Chest-02
+  rotate: true
+  xy: 967, 727
+  size: 74, 33
+  orig: 74, 33
+  offset: 0, 0
+  index: -1
+Comp 1_00000
+  rotate: true
+  xy: 777, 803
+  size: 219, 237
+  orig: 219, 237
+  offset: 0, 0
+  index: -1
+Comp 1_00001
+  rotate: true
+  xy: 489, 582
+  size: 219, 237
+  orig: 219, 237
+  offset: 0, 0
+  index: -1
+Comp 1_00002
+  rotate: true
+  xy: 728, 582
+  size: 219, 237
+  orig: 219, 237
+  offset: 0, 0
+  index: -1
+Comp 1_00003
+  rotate: false
+  xy: 2, 206
+  size: 219, 237
+  orig: 219, 237
+  offset: 0, 0
+  index: -1
+Comp 1_00004
+  rotate: false
+  xy: 223, 345
+  size: 219, 237
+  orig: 219, 237
+  offset: 0, 0
+  index: -1
+Comp 1_00005
+  rotate: true
+  xy: 444, 361
+  size: 219, 237
+  orig: 219, 237
+  offset: 0, 0
+  index: -1
+Comp 1_00006
+  rotate: true
+  xy: 683, 361
+  size: 219, 237
+  orig: 219, 237
+  offset: 0, 0
+  index: -1
+Comp 1_00007
+  rotate: false
+  xy: 223, 106
+  size: 219, 237
+  orig: 219, 237
+  offset: 0, 0
+  index: -1
+Comp 1_00008
+  rotate: false
+  xy: 444, 122
+  size: 219, 237
+  orig: 219, 237
+  offset: 0, 0
+  index: -1
+Comp 1_00009
+  rotate: false
+  xy: 665, 122
+  size: 219, 237
+  orig: 219, 237
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 489, 803
+  size: 286, 219
+  orig: 286, 219
+  offset: 0, 0
+  index: -1
+Left arm
+  rotate: false
+  xy: 886, 83
+  size: 108, 126
+  orig: 108, 126
+  offset: 0, 0
+  index: -1
+Left calf
+  rotate: false
+  xy: 922, 425
+  size: 80, 155
+  orig: 80, 155
+  offset: 0, 0
+  index: -1
+Left forearm
+  rotate: false
+  xy: 156, 109
+  size: 56, 95
+  orig: 56, 95
+  offset: 0, 0
+  index: -1
+Left leg
+  rotate: true
+  xy: 444, 21
+  size: 99, 146
+  orig: 99, 146
+  offset: 0, 0
+  index: -1
+Neck
+  rotate: false
+  xy: 922, 379
+  size: 57, 44
+  orig: 57, 44
+  offset: 0, 0
+  index: -1
+Right forearm
+  rotate: false
+  xy: 89, 8
+  size: 80, 70
+  orig: 80, 70
+  offset: 0, 0
+  index: -1
+Right hand
+  rotate: false
+  xy: 2, 12
+  size: 85, 66
+  orig: 85, 66
+  offset: 0, 0
+  index: -1
+Right hand01
+  rotate: false
+  xy: 955, 39
+  size: 29, 42
+  orig: 29, 42
+  offset: 0, 0
+  index: -1
+Right leg
+  rotate: true
+  xy: 735, 40
+  size: 80, 138
+  orig: 80, 138
+  offset: 0, 0
+  index: -1
+Robe
+  rotate: false
+  xy: 215, 584
+  size: 272, 438
+  orig: 272, 438
+  offset: 0, 0
+  index: -1
+Wand
+  rotate: false
+  xy: 2, 445
+  size: 211, 577
+  orig: 211, 577
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 80
+  size: 152, 124
+  orig: 152, 124
+  offset: 0, 0
+  index: -1
+expression
+  rotate: false
+  xy: 171, 18
+  size: 120, 86
+  orig: 120, 86
+  offset: 0, 0
+  index: -1
+expression1
+  rotate: false
+  xy: 293, 18
+  size: 120, 86
+  orig: 120, 86
+  offset: 0, 0
+  index: -1
+hair_03
+  rotate: true
+  xy: 875, 2
+  size: 79, 78
+  orig: 79, 78
+  offset: 0, 0
+  index: -1
+right calf
+  rotate: true
+  xy: 592, 41
+  size: 79, 141
+  orig: 79, 141
+  offset: 0, 0
+  index: -1
+
+nvhai2.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Chest
+  rotate: true
+  xy: 933, 144
+  size: 95, 82
+  orig: 95, 82
+  offset: 0, 0
+  index: -1
+Comp 1_00010
+  rotate: false
+  xy: 2, 2
+  size: 219, 237
+  orig: 219, 237
+  offset: 0, 0
+  index: -1
+Left hand
+  rotate: true
+  xy: 444, 20
+  size: 88, 95
+  orig: 88, 95
+  offset: 0, 0
+  index: -1
+Right arm
+  rotate: true
+  xy: 824, 147
+  size: 92, 107
+  orig: 92, 107
+  offset: 0, 0
+  index: -1
+expression2
+  rotate: false
+  xy: 702, 153
+  size: 120, 86
+  orig: 120, 86
+  offset: 0, 0
+  index: -1
+hair_01
+  rotate: false
+  xy: 223, 23
+  size: 219, 216
+  orig: 219, 216
+  offset: 0, 0
+  index: -1
+hair_02
+  rotate: false
+  xy: 444, 110
+  size: 138, 129
+  orig: 138, 129
+  offset: 0, 0
+  index: -1
+hairpin
+  rotate: false
+  xy: 584, 133
+  size: 116, 106
+  orig: 116, 106
+  offset: 0, 0
+  index: -1

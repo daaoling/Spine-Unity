@@ -1,0 +1,272 @@
+
+haojieshi.png
+size: 684,684
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Chest
+  rotate: false
+  xy: 578, 367
+  size: 74, 85
+  orig: 74, 85
+  offset: 0, 0
+  index: -1
+Left arm
+  rotate: true
+  xy: 568, 321
+  size: 44, 76
+  orig: 44, 76
+  offset: 0, 0
+  index: -1
+Left armour
+  rotate: false
+  xy: 105, 170
+  size: 158, 122
+  orig: 158, 122
+  offset: 0, 0
+  index: -1
+Left calf
+  rotate: false
+  xy: 620, 579
+  size: 62, 103
+  orig: 62, 103
+  offset: 0, 0
+  index: -1
+Left foot
+  rotate: true
+  xy: 540, 13
+  size: 32, 49
+  orig: 32, 49
+  offset: 0, 0
+  index: -1
+Left forearm
+  rotate: true
+  xy: 297, 2
+  size: 51, 68
+  orig: 51, 68
+  offset: 0, 0
+  index: -1
+Left hair
+  rotate: false
+  xy: 105, 294
+  size: 138, 187
+  orig: 138, 187
+  offset: 0, 0
+  index: -1
+Left hand
+  rotate: true
+  xy: 249, 460
+  size: 36, 49
+  orig: 36, 49
+  offset: 0, 0
+  index: -1
+Left hand_s
+  rotate: false
+  xy: 611, 460
+  size: 55, 50
+  orig: 55, 50
+  offset: 0, 0
+  index: -1
+Left shank
+  rotate: true
+  xy: 300, 421
+  size: 75, 131
+  orig: 75, 131
+  offset: 0, 0
+  index: -1
+Left shoulder
+  rotate: false
+  xy: 592, 236
+  size: 79, 83
+  orig: 79, 83
+  offset: 0, 0
+  index: -1
+Right arm
+  rotate: false
+  xy: 360, 217
+  size: 56, 95
+  orig: 56, 95
+  offset: 0, 0
+  index: -1
+Right forearm
+  rotate: true
+  xy: 367, 2
+  size: 51, 63
+  orig: 51, 63
+  offset: 0, 0
+  index: -1
+Right hand
+  rotate: true
+  xy: 245, 421
+  size: 37, 41
+  orig: 37, 41
+  offset: 0, 0
+  index: -1
+Right hand_s
+  rotate: false
+  xy: 432, 16
+  size: 40, 46
+  orig: 40, 46
+  offset: 0, 0
+  index: -1
+attack
+  rotate: true
+  xy: 265, 173
+  size: 122, 93
+  orig: 122, 93
+  offset: 0, 0
+  index: -1
+blink
+  rotate: true
+  xy: 300, 55
+  size: 116, 92
+  orig: 116, 92
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 502, 123
+  size: 92, 79
+  orig: 92, 79
+  offset: 0, 0
+  index: -1
+buff
+  rotate: true
+  xy: 342, 314
+  size: 105, 83
+  orig: 105, 83
+  offset: 0, 0
+  index: -1
+centre hair_l
+  rotate: true
+  xy: 113, 73
+  size: 95, 185
+  orig: 95, 185
+  offset: 0, 0
+  index: -1
+centre hair_s
+  rotate: true
+  xy: 433, 551
+  size: 131, 185
+  orig: 131, 185
+  offset: 0, 0
+  index: -1
+close
+  rotate: false
+  xy: 394, 123
+  size: 106, 92
+  orig: 106, 92
+  offset: 0, 0
+  index: -1
+cuirass
+  rotate: false
+  xy: 394, 64
+  size: 83, 57
+  orig: 83, 57
+  offset: 0, 0
+  index: -1
+cuirass_l
+  rotate: false
+  xy: 474, 14
+  size: 64, 31
+  orig: 64, 31
+  offset: 0, 0
+  index: -1
+demise
+  rotate: false
+  xy: 479, 47
+  size: 108, 74
+  orig: 108, 74
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 249, 498
+  size: 182, 184
+  orig: 182, 184
+  offset: 0, 0
+  index: -1
+miter
+  rotate: false
+  xy: 2, 483
+  size: 245, 199
+  orig: 245, 199
+  offset: 0, 0
+  index: -1
+normal
+  rotate: false
+  xy: 418, 217
+  size: 121, 92
+  orig: 121, 92
+  offset: 0, 0
+  index: -1
+rear hair
+  rotate: false
+  xy: 245, 297
+  size: 95, 122
+  orig: 95, 122
+  offset: 0, 0
+  index: -1
+right armour
+  rotate: true
+  xy: 2, 10
+  size: 151, 109
+  orig: 151, 109
+  offset: 0, 0
+  index: -1
+right calf
+  rotate: false
+  xy: 541, 222
+  size: 49, 87
+  orig: 49, 87
+  offset: 0, 0
+  index: -1
+right foot
+  rotate: true
+  xy: 592, 194
+  size: 40, 44
+  orig: 40, 44
+  offset: 0, 0
+  index: -1
+right hair
+  rotate: true
+  xy: 433, 454
+  size: 95, 176
+  orig: 95, 176
+  offset: 0, 0
+  index: -1
+right shank
+  rotate: true
+  xy: 427, 311
+  size: 63, 139
+  orig: 63, 139
+  offset: 0, 0
+  index: -1
+right shoulder
+  rotate: false
+  xy: 620, 512
+  size: 61, 65
+  orig: 61, 65
+  offset: 0, 0
+  index: -1
+sheath
+  rotate: false
+  xy: 113, 3
+  size: 182, 68
+  orig: 182, 68
+  offset: 0, 0
+  index: -1
+skirt
+  rotate: false
+  xy: 433, 376
+  size: 143, 76
+  orig: 143, 76
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 2, 163
+  size: 101, 318
+  orig: 101, 318
+  offset: 0, 0
+  index: -1

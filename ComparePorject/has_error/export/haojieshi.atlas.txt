@@ -1,0 +1,321 @@
+
+haojieshi.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Chest
+  rotate: true
+  xy: 449, 194
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+Left arm
+  rotate: true
+  xy: 52, 5
+  size: 15, 25
+  orig: 15, 25
+  offset: 0, 0
+  index: -1
+Left armour
+  rotate: true
+  xy: 271, 67
+  size: 53, 41
+  orig: 53, 41
+  offset: 0, 0
+  index: -1
+Left calf
+  rotate: true
+  xy: 314, 63
+  size: 21, 34
+  orig: 21, 34
+  offset: 0, 0
+  index: -1
+Left foot
+  rotate: false
+  xy: 344, 104
+  size: 11, 16
+  orig: 11, 16
+  offset: 0, 0
+  index: -1
+Left forearm
+  rotate: true
+  xy: 79, 3
+  size: 17, 23
+  orig: 17, 23
+  offset: 0, 0
+  index: -1
+Left hair_02
+  rotate: false
+  xy: 296, 192
+  size: 46, 62
+  orig: 46, 62
+  offset: 0, 0
+  index: -1
+Left hand
+  rotate: true
+  xy: 437, 180
+  size: 12, 16
+  orig: 12, 16
+  offset: 0, 0
+  index: -1
+Left hand_s
+  rotate: true
+  xy: 2, 2
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+Left shank
+  rotate: true
+  xy: 403, 194
+  size: 25, 44
+  orig: 25, 44
+  offset: 0, 0
+  index: -1
+Left shoulder
+  rotate: true
+  xy: 248, 3
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+Right arm
+  rotate: true
+  xy: 312, 10
+  size: 19, 32
+  orig: 19, 32
+  offset: 0, 0
+  index: -1
+Right arm_s
+  rotate: false
+  xy: 363, 167
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+Right forearm
+  rotate: false
+  xy: 342, 139
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+Right forearm_s
+  rotate: true
+  xy: 412, 180
+  size: 12, 23
+  orig: 12, 23
+  offset: 0, 0
+  index: -1
+Right hand
+  rotate: true
+  xy: 455, 180
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+Right hand_s
+  rotate: true
+  xy: 286, 122
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: -1
+Right hand_y
+  rotate: true
+  xy: 344, 88
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+attack_02
+  rotate: true
+  xy: 314, 86
+  size: 34, 28
+  orig: 34, 28
+  offset: 0, 0
+  index: -1
+blink_02
+  rotate: true
+  xy: 480, 220
+  size: 34, 30
+  orig: 34, 30
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 479, 192
+  size: 31, 26
+  orig: 31, 26
+  offset: 0, 0
+  index: -1
+buff_02
+  rotate: false
+  xy: 214, 2
+  size: 32, 27
+  orig: 32, 27
+  offset: 0, 0
+  index: -1
+centre hair_l_02
+  rotate: true
+  xy: 344, 194
+  size: 28, 57
+  orig: 28, 57
+  offset: 0, 0
+  index: -1
+centre hair_r_02
+  rotate: true
+  xy: 108, 14
+  size: 25, 52
+  orig: 25, 52
+  offset: 0, 0
+  index: -1
+centre hair_s_02
+  rotate: false
+  xy: 225, 58
+  size: 44, 62
+  orig: 44, 62
+  offset: 0, 0
+  index: -1
+close_02
+  rotate: false
+  xy: 278, 14
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+cuirass
+  rotate: true
+  xy: 342, 162
+  size: 28, 19
+  orig: 28, 19
+  offset: 0, 0
+  index: -1
+cuirass_l
+  rotate: false
+  xy: 278, 2
+  size: 21, 10
+  orig: 21, 10
+  offset: 0, 0
+  index: -1
+demise_02
+  rotate: false
+  xy: 309, 122
+  size: 31, 25
+  orig: 31, 25
+  offset: 0, 0
+  index: -1
+face_02
+  rotate: false
+  xy: 225, 122
+  size: 59, 61
+  orig: 59, 61
+  offset: 0, 0
+  index: -1
+miter_02
+  rotate: false
+  xy: 225, 185
+  size: 69, 69
+  orig: 69, 69
+  offset: 0, 0
+  index: -1
+normal_02
+  rotate: false
+  xy: 313, 31
+  size: 34, 30
+  orig: 34, 30
+  offset: 0, 0
+  index: -1
+rage
+  rotate: true
+  xy: 309, 149
+  size: 41, 31
+  orig: 41, 31
+  offset: 0, 0
+  index: -1
+rear hair_02
+  rotate: true
+  xy: 271, 46
+  size: 19, 40
+  orig: 19, 40
+  offset: 0, 0
+  index: -1
+right armour
+  rotate: false
+  xy: 162, 3
+  size: 50, 36
+  orig: 50, 36
+  offset: 0, 0
+  index: -1
+right calf
+  rotate: true
+  xy: 21, 4
+  size: 16, 29
+  orig: 16, 29
+  offset: 0, 0
+  index: -1
+right foot
+  rotate: false
+  xy: 342, 122
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: -1
+right hair_02
+  rotate: true
+  xy: 423, 221
+  size: 33, 55
+  orig: 33, 55
+  offset: 0, 0
+  index: -1
+right shank
+  rotate: false
+  xy: 286, 137
+  size: 21, 46
+  orig: 21, 46
+  offset: 0, 0
+  index: -1
+right shoulder
+  rotate: false
+  xy: 390, 170
+  size: 20, 22
+  orig: 20, 22
+  offset: 0, 0
+  index: -1
+sheath
+  rotate: false
+  xy: 344, 224
+  size: 77, 30
+  orig: 77, 30
+  offset: 0, 0
+  index: -1
+skill1
+  rotate: false
+  xy: 2, 60
+  size: 221, 194
+  orig: 221, 194
+  offset: 0, 0
+  index: -1
+skirt
+  rotate: false
+  xy: 218, 31
+  size: 48, 25
+  orig: 48, 25
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: true
+  xy: 108, 41
+  size: 17, 108
+  orig: 17, 108
+  offset: 0, 0
+  index: -1
+weapon_s
+  rotate: false
+  xy: 2, 22
+  size: 104, 36
+  orig: 104, 36
+  offset: 0, 0
+  index: -1

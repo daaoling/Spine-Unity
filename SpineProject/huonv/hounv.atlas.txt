@@ -1,0 +1,139 @@
+
+hounv.png
+size: 235,81
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+normal/qunzi1
+  rotate: false
+  xy: 87, 15
+  size: 38, 30
+  orig: 38, 30
+  offset: 0, 0
+  index: -1
+normal/qunzi2
+  rotate: false
+  xy: 87, 47
+  size: 50, 32
+  orig: 50, 32
+  offset: 0, 0
+  index: -1
+normal/shenti
+  rotate: false
+  xy: 127, 14
+  size: 25, 31
+  orig: 25, 31
+  offset: 0, 0
+  index: -1
+normal/tou
+  rotate: false
+  xy: 2, 6
+  size: 83, 73
+  orig: 83, 73
+  offset: 0, 0
+  index: -1
+normal/toufa1
+  rotate: false
+  xy: 207, 40
+  size: 26, 16
+  orig: 26, 16
+  offset: 0, 0
+  index: -1
+normal/toufa2
+  rotate: false
+  xy: 139, 56
+  size: 39, 23
+  orig: 39, 23
+  offset: 0, 0
+  index: -1
+normal/toufa3
+  rotate: false
+  xy: 190, 27
+  size: 15, 29
+  orig: 15, 29
+  offset: 0, 0
+  index: -1
+normal/toufa4
+  rotate: true
+  xy: 180, 58
+  size: 21, 34
+  orig: 21, 34
+  offset: 0, 0
+  index: -1
+normal/yaodai
+  rotate: true
+  xy: 154, 24
+  size: 30, 19
+  orig: 30, 19
+  offset: 0, 0
+  index: -1
+normal/youdatui
+  rotate: false
+  xy: 216, 63
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+normal/youjian
+  rotate: true
+  xy: 87, 2
+  size: 11, 20
+  orig: 11, 20
+  offset: 0, 0
+  index: -1
+normal/youshou1
+  rotate: true
+  xy: 175, 24
+  size: 30, 13
+  orig: 30, 13
+  offset: 0, 0
+  index: -1
+normal/youshou2
+  rotate: true
+  xy: 183, 2
+  size: 20, 9
+  orig: 20, 9
+  offset: 0, 0
+  index: -1
+normal/youxiaotui
+  rotate: true
+  xy: 154, 8
+  size: 14, 27
+  orig: 14, 27
+  offset: 0, 0
+  index: -1
+normal/zuobi
+  rotate: false
+  xy: 139, 47
+  size: 13, 7
+  orig: 13, 7
+  offset: 0, 0
+  index: -1
+normal/zuodatui
+  rotate: true
+  xy: 207, 26
+  size: 12, 21
+  orig: 12, 21
+  offset: 0, 0
+  index: -1
+normal/zuojian
+  rotate: true
+  xy: 194, 9
+  size: 16, 8
+  orig: 16, 8
+  offset: 0, 0
+  index: -1
+normal/zuoshou
+  rotate: false
+  xy: 204, 11
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+normal/zuoxiaotui
+  rotate: true
+  xy: 109, 2
+  size: 10, 26
+  orig: 10, 26
+  offset: 0, 0
+  index: -1
